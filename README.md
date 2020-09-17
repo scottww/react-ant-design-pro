@@ -22,6 +22,11 @@ $ npm create umi
 $ npm install
 ```
 
+## create page
+```bash
+$ umi g page users
+```
+
 see [umi docs][umi] for more detail.
 
 [umi]: https://umijs.org/
